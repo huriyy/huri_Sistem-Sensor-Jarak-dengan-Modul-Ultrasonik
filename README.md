@@ -25,6 +25,7 @@ Sistem peringatan jarak parkir berbasis mikrokontroler menggunakan sensor ultras
 2.  **Echo Pin** menerima pantulan sinyal dan menghitung durasi waktu tempuh.
 3.  **Jarak** dihitung dengan rumus: $s = \frac{v \times t}{2}$ di mana $v$ adalah kecepatan suara (340 m/s).
 4.  **Logika Peringatan:** Buzzer berbunyi
+
     
 
 ---
